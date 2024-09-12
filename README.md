@@ -1,10 +1,13 @@
-# Hi, I’m Gerald Gedeon
-<a href="www.linkedin.com/in/gerald-gedeon-557292308"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-I am currently learning to become a cybersecurity analyst.
+# Hi, I’m Gerald
+
+<a href="https://www.linkedin.com/in/gerald-gedeon-557292308"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+I am a dedicated cybersecurity analyst with a passion for protecting digital assets and ensuring the integrity of systems and data.
 
 ## Objective
 As a security analyst, I aim to protect an organization's digital assets by identifying, analyzing, and mitigating security threats.
 ## Skills
+
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
@@ -23,9 +26,15 @@ As a security analyst, I aim to protect an organization's digital assets by iden
 <ul><a href="https://www.wireshark.org/">Wireshark</a>: A network protocol analyzer that captures and displays data from a live network</ul>
 <ul><a href="https://snort.org/">Snort</a>: A network intrusion detection system (NIDS) for detecting real-time threats.</ul>
 
-<h2>Certifications<h/2>
+## Certifications
+<div>
 <ul><a href="https://www.cdicollege.ca/">Programmer-Analyst</a></ul>
 <ul><a href="https://www.coursera.org">Google Cybersecurity Professional Certificate</a></ul>
+</div>
+  
+## Projects
+- Detection Lab
+- SOC Automation Project
 <!---
 
 zotron-hub/zotron-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
