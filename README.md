@@ -29,7 +29,14 @@ As a security analyst, I aim to protect an organization's digital assets by iden
 ## Certifications
 <div>
 <ul><a href="https://www.cdicollege.ca/">Programmer-Analyst</a></ul>
-<ul><a href="https://www.coursera.org">Google Cybersecurity Professional Certificate</a></ul>
+<ul><a href="https://coursera.org/share/07a2c61d278deeb0c55890a2695b2949">Foundations of Cybersecurity</a></ul>
+<ul><a href="https://coursera.org/share/cd305964a02aa95e72e9507e84243602">Automate Cybersecurity Tasks with Python</a></ul>
+<ul><a href="https://coursera.org/share/6700223c064d0ea3071e4cdbc19bd567">Tools of the Trade: Linux and SQL</a></ul>
+<ul><a href="https://coursera.org/share/f4d59a7d29d594d40a1f57b6decb97cc">Sound the Alarm: Detection and Response</a></ul>
+<ul><a href="https://coursera.org/share/9217bfac5a85400032623e4d61e36a63">Assets, Threats, and Vulnerabilities</a></ul>
+<ul><a href="https://coursera.org/share/434b5e4a66fcb01e54c96b13759448bb">Play It Safe: Manage Security Risks</a></ul>
+<ul><a href="https://coursera.org/share/d89dbade0fec06948391ed17cb0962ed">Connect and Protect: Networks and Network Security</a></ul>
+
 </div>
   
 ## Projects
