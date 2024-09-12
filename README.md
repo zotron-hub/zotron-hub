@@ -15,12 +15,17 @@ As a security analyst, I aim to protect an organization's digital assets by iden
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 ## Tools
 ## Penetration Testing Tools
+<ul><a href="https://www.metasploit.com/">Metasploit</a>: A powerful open-source penetration testing framework</ul>
+<ul><a href="https://portswigger.net/burp/">Burp Suite</a>: A web vulnerability scanner and testing platform</ul>
+<ul><a href="https://nmap.org/">Nmapat</a>: A network scanning tool used to discover hosts and services on a computer network</ul>
+<ul><a href="https://www.zaproxy.org/">OWASP ZAP</a>: An open-source web application security scanner</ul>  
+<h2>Network Analysis Tools</h2>
+<ul><a href="https://www.wireshark.org/">Wireshark</a>: A network protocol analyzer that captures and displays data from a live network</ul>
+<ul><a href="https://snort.org/">Snort</a>: A network intrusion detection system (NIDS) for detecting real-time threats.</ul>
 
-<div><a href="https://www.metasploit.com/">Metasploit</a>: A powerful open-source penetration testing framework
-<a href="https://portswigger.net/burp/">Burp Suite</a>: A web vulnerability scanner and testing platform
-
-  
-</div>  
+<h2>Certifications<h/2>
+<ul><a href="https://www.cdicollege.ca/">Programmer-Analyst</a></ul>
+<ul><a href="https://www.coursera.org">Google Cybersecurity Professional Certificate</a></ul>
 <!---
 
 zotron-hub/zotron-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
