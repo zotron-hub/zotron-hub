@@ -8,14 +8,19 @@ I am a dedicated cybersecurity analyst with a passion for protecting digital ass
 As a security analyst, I aim to protect an organization's digital assets by identifying, analyzing, and mitigating security threats.
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                         | 
+|-----------------------------------------------|
+| SIEM Implementation and Log Analysis          | 
+| Network security and cloud computing          | 
+| Information Security (INFOSEC)                | 
+| NIST Risk Management Framework (RMF)          | 
+| Security Audits                               | 
+| NIST Cybersecurity Framework (CSF)            | 
+| Incident Response Playbooks                   | 
+| Command line interface (CLI)                  | 
+| SQL                                           | 
+| Linux                                         | 
+| Bash                                          | 
 ## Tools
 ## Penetration Testing Tools
 <ul><a href="https://www.metasploit.com/">Metasploit</a>: A powerful open-source penetration testing framework</ul>
